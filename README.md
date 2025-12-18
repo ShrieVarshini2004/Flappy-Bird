@@ -1,4 +1,3 @@
-https://flappybirdgesturecontolled.netlify.app/
 # Gesture-Controlled Flappy Bird (React + MediaPipe)
 
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://react.dev/)
@@ -7,6 +6,8 @@ https://flappybirdgesturecontolled.netlify.app/
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 **Created by Shrie Varshini**
+
+## Website: https://flappybirdgesturecontolled.netlify.app/
 
 A gesture-controlled version of the classic **Flappy Bird** game built using **React**, **Canvas**, and **MediaPipe Hands**.  
 The bird is controlled entirely using **hand gestures detected via webcam**, enabling a fun and interactive AI-powered gaming experience directly in the browser.
